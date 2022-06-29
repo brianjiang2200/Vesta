@@ -1,6 +1,3 @@
--- Initialize Database
-CREATE DATABASE vesta;
-
 -- User Schema
 CREATE SCHEMA IF NOT EXISTS users;
 
